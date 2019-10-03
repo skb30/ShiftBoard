@@ -1,0 +1,92 @@
+,Team,Location,Shift,Account,Subject
+Shift:,,Count:,,,
+5:00AM - 7:00AM,,2,,,
+Location:,,Count:,,,
+Apple Park,,1,,,
+,Apple Standard Deployment,Apple Park,5:00AM - 7:00AM,Kimberly Booth,OT - Apple Park
+Logistics,,1,,,
+,Apple Standard Deployment,Logistics,5:00AM - 7:00AM,Nate James,OT - Apple Park
+5:00AM - 2:00PM,,38,,,
+Location:,,Count:,,,
+Apple Park,,7,,,
+,Apple Standard Deployment,Apple Park,5:00AM - 2:00PM,Jason Perez,Training - KF07
+,Apple Standard Deployment,Apple Park,5:00AM - 2:00PM,Solomon Woldu,Training - KF07
+,Apple Standard Deployment,Apple Park,5:00AM - 2:00PM,Agueda Gonzalez Zamora,Training - KF07
+,Apple Standard Deployment,Apple Park,5:00AM - 2:00PM,Jose Pinal,Training - KF07
+,Apple Standard Deployment,Apple Park,5:00AM - 2:00PM,Rodolfo Contreras,Training - KF07
+,Apple Standard Deployment,Apple Park,5:00AM - 2:00PM,Matt Ahern,Training - KF07
+,Apple Standard Deployment,Apple Park,5:00AM - 2:00PM,Apple Standard Deployment,Cupertino
+Cupertino,,11,,,
+,Apple Standard Deployment,Cupertino,5:00AM - 2:00PM,Stacy Torres,Scheduling
+,Apple Standard Deployment,Cupertino,5:00AM - 2:00PM,Jose Martinez,Training - KF07
+,Apple Standard Deployment,Cupertino,5:00AM - 2:00PM,Carla Quinones,Sunnyvale
+,Apple Standard Deployment,Cupertino,5:00AM - 2:00PM,Scott Barth,Logistics
+,Apple Standard Deployment,Cupertino,5:00AM - 2:00PM,Leon Clarke,Apple Park
+,Apple Standard Deployment,Cupertino,5:00AM - 2:00PM,Claudia Whitmore,Training - KF07
+,Apple Standard Deployment,Cupertino,5:00AM - 2:00PM,Adnan Hossain,Cupertino
+,Apple Standard Deployment,Cupertino,5:00AM - 2:00PM,Vivian Hagemeyer,Training - KF07
+,Apple Standard Deployment,Cupertino,5:00AM - 2:00PM,Destiny Diaz,Training - KF07
+,Apple Standard Deployment,Cupertino,5:00AM - 2:00PM,Randall Anderson,Training - KF07
+,Apple Standard Deployment,Cupertino,5:00AM - 2:00PM,Apple Standard Deployment,Sunnyvale
+Logistics,,6,,,
+,Apple Standard Deployment,Logistics,5:00AM - 2:00PM,Marvin Briones,Apple Park
+,Apple Standard Deployment,Logistics,5:00AM - 2:00PM,Britney Rodriguez,Training - KF07
+,Apple Standard Deployment,Logistics,5:00AM - 2:00PM,Judith Benitez,Cupertino
+,Apple Standard Deployment,Logistics,5:00AM - 2:00PM,Jamee Vasquez,Apple Park
+,Apple Standard Deployment,Logistics,5:00AM - 2:00PM,Sam Shah,Training - KF07
+,Apple Standard Deployment,Logistics,5:00AM - 2:00PM,Apple Standard Deployment,Apple Park
+Scheduling,,1,,,
+,Apple Standard Deployment,Scheduling,5:00AM - 2:00PM,Vivi Radilla,Scheduling
+Sunnyvale,,1,,,
+,Apple Standard Deployment,Sunnyvale,5:00AM - 2:00PM,Bryan Garcia,Cupertino - Shadowing Ponce
+Training,,3,,,
+,Apple Standard Deployment,Training,5:00AM - 2:00PM,Steven Alcantara,Training - KF07
+,Apple Standard Deployment,Training,5:00AM - 2:00PM,Devonna Serratos,Apple Park - Shadowing Khaliki
+,Apple Standard Deployment,Training,5:00AM - 2:00PM,Johni Cheri Rocha,Sunnyvale - CALL OFF
+Watch Commander,,3,,,
+,Apple Standard Deployment,Watch Commander,5:00AM - 2:00PM,Monique Ton,Apple Park
+,Apple Standard Deployment,Watch Commander,5:00AM - 2:00PM,Viri Villanueva,Training - KF07
+,Apple Standard Deployment,Watch Commander,5:00AM - 2:00PM,Huy Dao,Cupertino
+Wolfe Campus,,6,,,
+,Apple Standard Deployment,Wolfe Campus,5:00AM - 2:00PM,Rhea Delos Santos,Logistics
+,Apple Standard Deployment,Wolfe Campus,5:00AM - 2:00PM,Christina Martin,Training - KF07
+,Apple Standard Deployment,Wolfe Campus,5:00AM - 2:00PM,Yesenia Juarez,Training - KF07
+,Apple Standard Deployment,Wolfe Campus,5:00AM - 2:00PM,Dawn Aiello,Training - KF07
+,Apple Standard Deployment,Wolfe Campus,5:00AM - 2:00PM,Alyssa Garza,Apple Park
+,Apple Standard Deployment,Wolfe Campus,5:00AM - 2:00PM,Raymond Diep,Cupertino
+7:00AM - 3:30PM,,1,,,
+Location:,,Count:,,,
+Apple Park,,1,,,
+,Apple Standard Deployment,Apple Park,7:00AM - 3:30PM,Takashi Hirabayashi,Apple Park
+7:00AM - 4:00PM,,11,,,
+Location:,,Count:,,,
+Apple Park,,2,,,
+,Apple Standard Deployment,Apple Park,7:00AM - 4:00PM,Mae Cantoria,Apple Park
+,Apple Standard Deployment,Apple Park,7:00AM - 4:00PM,Rafael Vizcarra,Apple Park
+Cupertino,,2,,,
+,Apple Standard Deployment,Cupertino,7:00AM - 4:00PM,Kevin Lang,Apple Park
+,Apple Standard Deployment,Cupertino,7:00AM - 4:00PM,Heather Goddard,Apple Park - CALL OFF
+Logistics,,2,,,
+,Apple Standard Deployment,Logistics,7:00AM - 4:00PM,Renee Alvarado,Logistics Supervisor
+,Apple Standard Deployment,Logistics,7:00AM - 4:00PM,Brandon Valera,Apple Park
+Sunnyvale,,3,,,
+,Apple Standard Deployment,Sunnyvale,7:00AM - 4:00PM,Eric Navarro,Wolfe Campus
+,Apple Standard Deployment,Sunnyvale,7:00AM - 4:00PM,Harold Geddes,Wolfe Campus Supervisor
+,Apple Standard Deployment,Sunnyvale,7:00AM - 4:00PM,Desmond Jones,Wolfe Campus
+Training,,2,,,
+,Apple Standard Deployment,Training,7:00AM - 4:00PM,Sergio Herrera,Wolfe Campus
+,Apple Standard Deployment,Training,7:00AM - 4:00PM,Karl Darr,Apple Park
+7:00AM - 10:00AM,,1,,,
+Location:,,Count:,,,
+Logistics,,1,,,
+,Apple Standard Deployment,Logistics,7:00AM - 10:00AM,Lianne Sanchez,OT - Apple Park
+7:00AM - 12:00PM,,1,,,
+Location:,,Count:,,,
+Logistics,,1,,,
+,Apple Standard Deployment,Logistics,7:00AM - 12:00PM,Albert Balcita,Apple Park - CALL OFF
+6:00AM - 10:00AM,,2,,,
+Location:,,Count:,,,
+Training,,1,,,
+,Apple Standard Deployment,Training,6:00AM - 10:00AM,Valentin Guevara,OT - Apple Park
+Wolfe Campus,,1,,,
+,Apple Standard Deployment,Wolfe Campus,6:00AM - 10:00AM,Ryan Thiel,OT - Apple Park
